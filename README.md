@@ -37,20 +37,24 @@ O modelo foi treinado com uma base de dados realista e disponibilizado em uma **
  ┣ 📄 clientes.csv
  ┣ 📄 requirements.txt
  ┣ 📄 README.md
+```
 
 ▶️ Como executar o projeto localmente
+
 1️⃣ Instalar as dependências
 
 No terminal, execute:
-
+```bash
 pip install -r requirements.txt
+```
 
 2️⃣ Executar a aplicação
 
 ⚠️ IMPORTANTE:
 Este projeto deve ser executado utilizando o Streamlit.
-
+```bash
 streamlit run app.py
+```
 
 Após executar o comando:
 
@@ -60,9 +64,9 @@ Após executar o comando:
 ## 🖥️ Aplicação online
 
 Você também pode acessar a aplicação rodando no Streamlit Cloud:
-
+```txt
 https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/
-
+```
 
 
 📊 Sobre os dados utilizados
