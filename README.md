@@ -57,10 +57,12 @@ Após executar o comando:
 - o navegador será aberto automaticamente
 -  a interface do sistema estará pronta para uso
 
-🖥️ Aplicação online
+## 🖥️ Aplicação online
 
-Você também pode acessar a aplicação rodando online no Streamlit Cloud:
-   https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/
+Você também pode acessar a aplicação rodando no Streamlit Cloud:
+
+👉 **[Clique aqui para acessar o app](https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/)**
+
 
 
 📊 Sobre os dados utilizados
