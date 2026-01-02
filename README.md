@@ -60,7 +60,7 @@ Após executar o comando:
 🖥️ Aplicação online
 
 Você também pode acessar a aplicação rodando online no Streamlit Cloud:
-   👉 **[Clique aqui para acessar o app](https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/)**
+   https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/
 
 
 📊 Sobre os dados utilizados
