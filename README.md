@@ -20,12 +20,11 @@ O modelo foi treinado com uma base de dados realista e disponibilizado em uma **
 
 ---
 
-## 🧠 Tecnologias utilizadas
-
-- **Python**
-- **Pandas**
-- **Scikit-learn**
-- **Streamlit**
+## Tecnologias Utilizadas
+![Python](https://img.shields.io/badge/Python-3-blue?style=flat-square&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat-square&logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web-ff0000?style=flat-square&logo=streamlit)
 
 ---
 
