@@ -61,7 +61,7 @@ Após executar o comando:
 
 Você também pode acessar a aplicação rodando no Streamlit Cloud:
 
-👉 **[Clique aqui para acessar o app](https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/)**
+https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/
 
 
 
