@@ -71,31 +71,31 @@ https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit
 
 📊 Sobre os dados utilizados
 
--clientes.csv contém informações como:
-
-   idade;
-   profissão;
-   salário anual;
-   histórico de crédito;
-   comportamento de pagamento;
-
+clientes.csv contém informações como:
+```txt
+   1.idade;
+   2.profissão;
+   3.salário anual;
+   4.histórico de crédito;
+   5.comportamento de pagamento;
+```
 -Esses dados são utilizados para treinar o modelo de previsão
 
 📚 Observações
 
 Projeto com finalidade educacional
 Ideal para estudo de:
-
+```txt
    -Machine Learning
    -classificação de dados
    -integração de modelos com interface web
-
+```
 Pode ser expandido com:
-
+```txt
    -salvamento do modelo treinado
    -gráficos de análise
    -explicação da previsão (feature importance)
-
+```
 👨‍💻 Autor
 
 Projeto desenvolvido por Guilherme Matté
